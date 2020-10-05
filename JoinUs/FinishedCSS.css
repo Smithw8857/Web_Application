@@ -4,7 +4,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: rgb(66,69,86);
   height: 100%;
-  background-image: url(/images/bg.jpg);
+  background-image: url('https://imgur.com/BJP2Q1j.jpg');
   background-size: cover;
   font-weight: 100;
 }
